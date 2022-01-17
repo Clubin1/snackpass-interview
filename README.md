@@ -61,9 +61,13 @@ Please be sure to provide an explaination of:
 
 ### Setup
 the app is deployed if you would like to see it without setting it up. Below are links to the frontend and backend
-frontend:
-backend:
+frontend: working on deployment
+backend: working on deployment
 
-The frontend is in deployment so it is setup to make calls to the deployed backend. If you would like to run the code yourself just install the dependencies then run the react app.
+to run and setup, just pull from git repository and install dependencies for both the frontend and backend.
+cd into backend and use node server to run backend
+cd into frontend and use npm start to run frontend
+
+the server needs to be running for the frontend to run.
 
 You may be as verbose as you would like when providing details on approach, setup etc.
